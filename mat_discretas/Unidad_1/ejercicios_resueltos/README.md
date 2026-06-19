@@ -10,20 +10,14 @@
 
 ## 📂 Archivos de esta sección
 
-> Sube aquí el PDF con los ejercicios resueltos de la Unidad 1.
 
-| Archivo | Descripción |
-|---------|-------------|
-| 📄 `ejercicios_resueltos_unidad1.pdf` | *(pendiente de subir)* |
-
----
-
-### 📌 ¿Cómo subir el PDF?
-
-1. Entra a esta carpeta en GitHub
-2. Haz clic en **`Add file` → `Upload files`**
-3. Arrastra tu archivo PDF aquí
-4. Haz clic en **Commit changes**
+| Archivo | 
+|---------|
+|[Validación de argumentos](Validación.pdf)|
+|[Traducción de lenguaje natural al simbólico](Traducción.pdf)|
+|[Aplicación de leyes proposicionales](Aplicación_leye.pdf)|
+|[Identificación de tautologías, contradicciones y contingencias](Identificación.pdf)|
+|[Tablas de verdad](TABLAS_VERDAD.pdf)|
 
 ---
 
