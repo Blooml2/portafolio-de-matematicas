@@ -7,8 +7,7 @@
 </div>
 
 ---
-<iframe src="Ejercicio.pdf" width="100%" height="800px"></iframe>
-(Ejercicio.pdf)
+[📄 Ver PDF](./Ejercicio.pdf)
 
 ---
 
