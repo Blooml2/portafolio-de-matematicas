@@ -7,7 +7,7 @@
 </div>
 
 ---
-[APE2 COMPLETO](APE2.pdf)
+[APE 2 COMPLETO](APE2.pdf)
 
 Ejercios personales:
 
