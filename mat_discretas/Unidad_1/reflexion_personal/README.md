@@ -11,8 +11,8 @@
 ## 📂 Archivo de esta sección
 
 
-| Archivo | Descripción |
-|---------|-------------|
+| Archivo |
+|---------|
 |[Ver reflexión](Reflexión.pdf)|
 ---
 
