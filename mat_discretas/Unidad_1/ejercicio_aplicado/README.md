@@ -7,6 +7,11 @@
 </div>
 
 ---
+## 📂 Archivo de esta sección
+
+
+| Archivo |
+|---------|
 [📄 Ver PDF](./Ejercicio.pdf)
 
 ---
