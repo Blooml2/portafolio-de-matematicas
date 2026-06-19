@@ -12,10 +12,11 @@
 Ejercios personales:
 
 1. Ejercicio de 2 términos y 2 variables
-<img width="636" height="245" alt="1" src="https://github.com/user-attachments/assets/b1ed100e-b752-4a45-97c5-5e8d077c0ae8" />
+<img width="636" height="345" alt="1" src="https://github.com/user-attachments/assets/b1ed100e-b752-4a45-97c5-5e8d077c0ae8" />
 
 Tabla de verdad
-<img width="622" height="342" alt="2" src="https://github.com/user-attachments/assets/fb2ea42e-fea9-4e77-8a7c-7ece80e2a4ba" />
+
+<img width="636" height="345"" alt="2" src="https://github.com/user-attachments/assets/fb2ea42e-fea9-4e77-8a7c-7ece80e2a4ba" />
 
 2. Ejercicio de 3 términos y 5 variables
 <img width="707" height="522" alt="3" src="https://github.com/user-attachments/assets/4b93358a-3648-4cf4-b238-0f45855bb98d" />
