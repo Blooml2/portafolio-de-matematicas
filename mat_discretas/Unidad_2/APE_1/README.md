@@ -34,6 +34,8 @@ Tabla de verdad
 
 <img width="460" height="706" alt="6" src="https://github.com/user-attachments/assets/706bfe61-81f0-49c4-8169-82ada749d4c1" />
 
+
+
 <img width="487" height="420" alt="7" src="https://github.com/user-attachments/assets/d4d8c5b8-fcfc-4d33-9f64-54c988bf25b3" />
 
 4. Ejercicio de 6 términos y 6 variables
@@ -42,6 +44,8 @@ Tabla de verdad
 Tabla de verdad
 
 <img width="482" height="751" alt="9" src="https://github.com/user-attachments/assets/6ff343b9-59d8-4f0d-966d-f19da352ebdd" />
+
+
 
 <img width="472" height="376" alt="10" src="https://github.com/user-attachments/assets/2a3a24af-f2ad-4b58-879e-b4c84f4ff73e" />
 
@@ -52,7 +56,9 @@ Tabla de verdad
 
 <img width="467" height="617" alt="12" src="https://github.com/user-attachments/assets/f47193ec-0625-4233-919e-1195fea2e547" />
 
+
 <img width="251" height="782" alt="13" src="https://github.com/user-attachments/assets/298b59aa-8832-43de-9574-125a24a43fcc" />
+
 
 <img width="260" height="342" alt="image" src="https://github.com/user-attachments/assets/497b3898-1f16-44a1-9c67-c2d35abb57d9" />
 
