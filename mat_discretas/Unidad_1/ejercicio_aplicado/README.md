@@ -8,22 +8,7 @@
 
 ---
 
-## 📂 Archivos de esta sección
-
-> Sube aquí el PDF con el ejercicio aplicado de la Unidad 1.
-
-| Archivo | Descripción |
-|---------|-------------|
-| 📄 `ejercicio_aplicado_unidad1.pdf` | *(pendiente de subir)* |
-
----
-
-### 📌 ¿Cómo subir el PDF?
-
-1. Entra a esta carpeta en GitHub
-2. Haz clic en **`Add file` → `Upload files`**
-3. Arrastra tu archivo PDF aquí
-4. Haz clic en **Commit changes**
+(Ejercicio.pdf)
 
 ---
 
