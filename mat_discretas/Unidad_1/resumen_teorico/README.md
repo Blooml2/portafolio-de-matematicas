@@ -10,8 +10,8 @@
 
 ## 📂 Archivos de esta sección
 
-| Archivo | Descripción |
-|---------|-------------|
+| Archivo | 
+|---------|
 |[Reglas de inferencia](Reglas_inferencia.pdf)|
 |[Leyes principales](Leyes_principales.pdf)|
 |[Definiciones](Definiciones.pdf)|
