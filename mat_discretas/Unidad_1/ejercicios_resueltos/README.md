@@ -15,7 +15,7 @@
 |---------|
 |[Validación de argumentos](Validación.pdf)|
 |[Traducción de lenguaje natural al simbólico](Traducción.pdf)|
-|[Aplicación de leyes proposicionales](Aplicación_leye.pdf)|
+|[Aplicación de leyes proposicionales](Aplicación_leyes.pdf)|
 |[Identificación de tautologías, contradicciones y contingencias](Identificación.pdf)|
 |[Tablas de verdad](TABLAS_VERDAD.pdf)|
 
