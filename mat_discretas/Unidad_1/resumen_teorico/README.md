@@ -10,15 +10,11 @@
 
 ## 📂 Archivos de esta sección
 
-> Sube aquí el PDF con el resumen teórico de la Unidad 1.
-
 | Archivo | Descripción |
 |---------|-------------|
-| 📄 `resumen_unidad1.pdf` | *(pendiente de subir)* |
-[Reglas de inferencia.pdf](https://github.com/user-attachments/files/29140105/Reglas.de.inferencia.pdf)
-[Leyes principales.pdf](https://github.com/user-attachments/files/29140108/Leyes.principales.pdf)
-[Definiciones.pdf](https://github.com/user-attachments/files/29140090/Definiciones.pdf)
-### [Reglas de inferencia](Definiciones.pdf)
+|[Reglas de inferencia](Reglas_inferencia.pdf)|
+|[Leyes principales](Leyes_principales.pdf)|
+|[Definiciones](Definiciones.pdf)|
 
 
 <div align="center">
