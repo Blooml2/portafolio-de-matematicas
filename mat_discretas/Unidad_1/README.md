@@ -22,9 +22,8 @@
 
 ## 📝 Enlace del Examen
 
-> 🔗 **Link del examen:** *(pendiente de agregar)*
->
-> *Reemplaza este texto con el enlace correspondiente cuando esté disponible.*
+> 🔗 **Link del examen:** *https://drive.google.com/file/d/17BAfK7Y7OzItBABX1gB7uxeubgiqjUz6/view?usp=sharing*
+
 
 ---
 
