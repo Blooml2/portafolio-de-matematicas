@@ -18,7 +18,7 @@
 [Reglas de inferencia.pdf](https://github.com/user-attachments/files/29140105/Reglas.de.inferencia.pdf)
 [Leyes principales.pdf](https://github.com/user-attachments/files/29140108/Leyes.principales.pdf)
 [Definiciones.pdf](https://github.com/user-attachments/files/29140090/Definiciones.pdf)
-### [Clic para ingresar](Reglas.de.inferencia.pdf)
+### [Reglas de inferencia](Reglas.de.inferencia.pdf)
 
 
 <div align="center">
