@@ -45,7 +45,7 @@
 |---|--------|-------------|
 | 1 | [📖 Unidad 1](./Unidad_1/README.md) | Resumen teórico · Ejercicios · Reflexión · Examen |
 | 2 | [📖 Unidad 2](./Unidad_2/README.md) | APE 1 · APE 2 · APE 3 |
-| 3 | [📖 Unidad 3](./Unidad_3/README.md) | *(pendiente de completar)* |
+| 3 | [📖 Unidad 3](./Unidad_3/README.md) | Grafos y Árboles |
 
 ---
 
